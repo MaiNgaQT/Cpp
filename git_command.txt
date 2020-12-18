@@ -16,6 +16,7 @@ git clone url
 
 ## .gitignore
 *.exe
+*.bin
 
 git rm -rf ---cached .
 
