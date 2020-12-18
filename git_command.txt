@@ -13,3 +13,10 @@ git push
 
 ##get repo from github
 git clone url
+
+## .gitignore
+*.exe
+
+git rm -rf ---cached .
+
+git add .
